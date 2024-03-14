@@ -1,0 +1,27 @@
+TELNET APPs
+
+Mudlet – A cross-platform, open source, and super fast MUD client with scripting in Lua
+
+8 Best MUD client as of 2024 - Slant
+
+
+
+SERVERS
+
+City of Ages: Picture Supportive Text MUD (server and client included) on Steam (steampowered.com)
+
+CircleMUD admin.pdf (circlemud.org)
+
+DikuMUD Getting started - Step by Step - DikuMUD Wiki
+
+GitHub - cpu/ldmud-tutorial: Configure a Ubuntu 20.04 server with an HTTPS website, and the LDMud game engine w/ TLS and Python support.
+
+Evennia Python MUD/MU creation system
+
+ExVenture (Elixir) is at https://github.com/oestrich/ex_venture
+
+Ranvier (Javascript) is at https://github.com/RanvierMUD/ranviermud
+
+Evennia (Python) is at https://github.com/evennia/evennia
+
+CoffeeMUD (Java) is at https://github.com/bozimmerman/CoffeeMud/
