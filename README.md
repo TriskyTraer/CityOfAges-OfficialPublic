@@ -12,3 +12,4 @@ you new designs. Our game has one of every joke, every idea possible, even:
 Elvis our GURU, roulette on command, horse racing on command,
 a working Arcade machine with Tools>Joystick control, go play Packmon, and
 discover a mini-AOL machine we made, ascii popup pictures, and more!
+Buy the team a Coffee, the game is free! https://ko-fi.com/cityofages
