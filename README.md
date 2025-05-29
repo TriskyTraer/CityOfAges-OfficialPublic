@@ -13,3 +13,4 @@ Elvis our GURU, roulette on command, horse racing on command,
 a working Arcade machine with Tools>Joystick control, go play Packmon, and
 discover a mini-AOL machine we made, ascii popup pictures, and more!
 Buy the team a Coffee, the game is free! https://ko-fi.com/cityofages
+Languages Required: twinBASIC, Microsoft Visual Basic 6/Access 97
