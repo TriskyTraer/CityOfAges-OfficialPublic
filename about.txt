@@ -1,17 +1,34 @@
 About This Game
-Great for people that like collecting great games of all kinds, this one is the last PC retro Ascii graphics game!
+======================
+Want me to help you build your text game let me know: formsmatter@gmail.com $15 first room $10 room there after USD.
 
-Great for people learning the English language, by having fun, use a screen scanning translator or have your parent nearby!
+This server supports up to 47 people at the same time! That is how fun and powerful this server is!
 
-Great for educators of the English language in a fun way to learn, so they learn the game at the same time!
+Great for people that like collecting great games of all kinds, this one is the last PC retro Ascii graphics game with all source code, no bugs, no coding errors, perfection for what it is! This is why I made this game, its a different kind of gaming - THATS ALL ! Play it once in awhile ! its GOOD ! Just Different !
+
+Truly designed for those of the Intelligent RPGer level, and those that can read along and solve abilities hidden with the text environment, and without the expense of a Graphics Card or its requirement.
+
+City of Ages Client (since 1999) can connect to City of Ages server or other Telnet RPGs alike, and 100s of these text servers exist out there. While using City of Ages client usher over to the top and select TOOLS and then mouse click PORTS, see all the freebie text games? Play our game or play their version made from other source code! Endless!
+
+Now you can run our client to connect to the free City of Ages server, or use this client to go try other telnet text servers out there--this gives you more than one server to toy around with. Also variations of City of Ages: Safari (our code) updating all the time for free. Text gaming is THAT BIG--RIGHT NOW men and ladies are chatting all over these hidden servers. Telnet servers are the hidden dark web of fun with spiders with all kinds of mobs with powerful spells!
+
+If you are looking for that game with the opposite sex playing a lot in it--its not PvP games that's for sure, its right here! Many have dated in these games and put a ring in real life right on that special finger; these are CHAT servers you could easily meet the right person and make friends, the communities are great, maybe meet your wildest dream in a text MUD its possible!
+
+This is not a single player 3D Game this is the first working and designed TEXT Ascii RPG with EVERYTHING the others have, so why does it have to be 3D, it doesn't. Human beings, when we imagine it, it comes to life, many say they do not have an imagination, I bet you were thinking about breakfast when you woke up. Just get into text mudding and chatting, why not, its so fun, surf the world of mudding! Surf for free using our telnet free client, connect to any telnet MUD!
+
+I challenge all true gamers and true RPGers to make a group of three characters with my client (use TOOLS to create an instance) that follow each other around, your game here isn't limited to just you playing, you can use the FOLLOW and GROUP up to three characters together.
+
+Great for all platforms and emulators, NO GRAPHICS CARD REQUIRED, bitmap graphics that you can change! The LAUGHS are ENDLESS with text RPGs. Put pictures of your whole family, pets, and friends (especially those enemies) into this game, have them show up when you meet the monster you made! This game is a DIFFERENT FUN !!!
+
+Great for people learning the English language, by having fun, use a screen scanning translator or have your parent nearby; and for educators of the English language in a fun way to learn, so they learn the game at the same time!
 
 Great for people that like programmatical games and easy to follow code:
 
-      We have visual basic 6 easy to follow code, use vb6 or twinBASIC to compile.
+-      We have EASY to follow code, use vb6 or try free twinBASIC found at 'twinBASIC GitHub repository' to compile.
 
-      We have event triggers on text matching from the screen.
+-      We have event triggers on text matching from the screen.
 
-      We have building commands for Administrators/Lords of the game.
+-      We have building commands for Administrators/Lords of the game.
 
 There is so much more keep reading !!!
 
@@ -24,13 +41,13 @@ City of Ages Code: Safari [56000+ Epic downloads at steampowered as of 2017-2025
 
 Edger Allen Poe was paid a pizzly sum by todays monies with full rights purchased away from him for less than two hundred dollars. The Raven by Edgar Allen Poe was declared a masterpiece in ITS OWN RIGHTS.
 
-This is my Masterpiece and I hope people play TextCraft with the code more often. Welcome to a different form of gaming, a poetic one. Enjoy a true floating port technology server with a built in game server that is HARDENED from port noise, its SQL-Server (console command driven) and its own mitigation server (anti DDOS attacks) and all yours for FREE. If you are trying to learn english, this is a great game, you just need to find your screen reader that can translate different languages. Most screen readers are for the visually impaired and are available on the internet, search for mud screen readers.
+This is my Masterpiece and I hope people play TextCraft with the code more often. Welcome to a different form of gaming, a poetic one. Enjoy a true floating port technology server with a built in game server that is HARDENED from port noise, its SQL-Server (console command driven) and its own mitigation server (anti DDOS attacks) and all yours for FREE. If you are trying to learn English, this is a great game, you just need to find your screen reader that can translate different languages. Most screen readers are for the visually impaired and are available on the internet, search for mud screen readers.
 
 This is the most advanced 2.5 Dimensioned RPG ever developed and will continue development, and it saves on your graphics card because it doesn't need one. You can play other games while playing this game, and we all like to do that as we wait for graphical games to launch our 3D virtual playgrounds. City of Ages' game design is similar to top graphical games of the same concept, some laptops do not have a graphical card, here is a text variation to toy with. This game also has Artificial Intelligence built right into the server code. City of Ages' game will slowly offer you mini games while you play, Egg you on for fights the next time you log in and many more AI-like features!
 
 Our finished client allows you to make macros, edit buttons, you have timers that repeat any command including your Attack target commands [no grind no beating on your keyboard required], or use timers to practice your spells FOR YOU, does the word IDLE game mean anything to you all? Yes it DOES! Many like games they can play all at one time, your PC game is running, your mobile game is running, idle games are fun for this reason!
 
-Its a really great different type of game we have bitmap graphics you can tweak, its TEXTCraft really. This type of game is a great addition to a collector's game list!
+Its a really great different type of game we have bitmap graphics you can tweak, its TextCraft really. This type of game is a great addition to a collector's game list!
 
 Play it, I MADE IT!
 
@@ -106,11 +123,11 @@ Missile weapons and Arcane kinetic bolts can slay anything in the realm,
 
 with Guard quests and Object hunts we took some grind out of RPG this way.
 
-Crafting: (graet news, no leveling required, full access to the forge and crafting system)
+Crafting: (great news, no leveling required, full access to the forge and crafting system)
 
 Spell Crafts which you learn from TEACHERS of the realm to convert one item into a more useful one for crafting
 
-Craft Transmute tables, put a few items into the mutator and poof new item
+Craft Transmute tables, put a few items into the transmutation and poof a cool new item
 
 FORGE command with easy to earn crowns of glory, items rare on their own as well
 
@@ -317,6 +334,27 @@ twinBASIC is a modern implementation of the classic Visual BASIC (VB Access) pro
 
 Huge thank you to Rochester, Washington state for 23 years of beta testing. SteveH RichieV NateD
 
-AFTER 2037 anyone can use and make money from this server, I am however allowed to make money any time I want. I am hoping to learn Unity or hire a programmer for the 3D mobile side.
+System Requirements
+Minimum:
+OS: XP/7/8/10/11
+Processor: any
+Memory: 100 MB RAM
+Graphics: any
+Storage: 99 MB available space
+Sound Card: any
+Additional Notes: Fully finished game! Server requires minimal resources and can Sleep itself when inactive. Any device that supports Telnet can connect to the Telnet Server. Telnet Server and Client provided works on any Windows OS.
+Recommended:
+OS: XP/7/8/10/11
+Processor: any
+Memory: 100 MB RAM
+Graphics: any
+Storage: 99 MB available space
+Sound Card: any
+Additional Notes: Fully finished game! Server requires minimal resources and can Sleep itself when inactive. Any device that supports Telnet can connect to the Telnet Server. Telnet Server and Client provided works on any Windows OS.
+** EULA: You may do anything with the code except sell it or make money from the code until 2037, after I turn 65 do anything you want even make money with the code. Place a nice stage view graphical interface on your version of a mobile client, I did the PC client well enough.
 
-Happy text hunting !
+
+Darren Nesbitt Lory
+City of Ages: Safari MUD Founder
+questions? yes, I get a lot, do not be shy.
+Formsmatter@gmail.com
