@@ -1,55 +1,73 @@
 About This Game
-======================
-Want me to help you build your text game let me know: formsmatter@gmail.com $15 first room $10 room there after USD.
+=============================
 
-This server supports up to 47 people at the same time! That is how fun and powerful this server is!
+City of Ages Code: Safari [56000+ Epic downloads at steampowered as of 2017-2026+]
 
-Great for people that like collecting great games of all kinds, this one is the last PC retro Ascii graphics game with all source code, no bugs, no coding errors, perfection for what it is! This is why I made this game, its a different kind of gaming - THATS ALL ! Play it once in awhile ! its GOOD ! Just Different !
+[framework Visual Basic + 80% SQL Transactions + Win 11 vbDLLs approved by Microsoft]
+
+===========================================================================
+
+DO YOU COLLECT GAMES? PLAY THE LAST ASCII GRAPHICS COLLECTABLE TEXT GAME !!! LIKE READING ??
+
+You came to the right place ! 
+
+City of Ages is 100% server side driven, it is IMPOSSIBLE to code a cheat and use it against other players.
+
+This game boots instantly, no waiting, play while your other game loads!
+
+This server supports up to 47 people at the same time! Its a hardened server so that others cannot bring down this game. The game records Internet Protocols and will auto ban where there is trouble. No MUD can do this as well as ours. You are protected! You can run this server along side any other server, including game servers, its low low low impact and will sleep itself other than listening on its redirectional ports. You can run this server and your favorite other game servers, or an FTP server, this server will not conflict. That is how fun and powerful this server is!
+
+Great for people that like collecting great games of all kinds, this one is the last PC retro Ascii graphics game with all source code, no bugs, no coding errors, perfection for what it is!  This is why I made this game, its a different kind of gaming - THATS ALL ! Play it once in awhile ! its GOOD ! Just Different !
 
 Truly designed for those of the Intelligent RPGer level, and those that can read along and solve abilities hidden with the text environment, and without the expense of a Graphics Card or its requirement.
 
 City of Ages Client (since 1999) can connect to City of Ages server or other Telnet RPGs alike, and 100s of these text servers exist out there. While using City of Ages client usher over to the top and select TOOLS and then mouse click PORTS, see all the freebie text games? Play our game or play their version made from other source code! Endless!
 
-Now you can run our client to connect to the free City of Ages server, or use this client to go try other telnet text servers out there--this gives you more than one server to toy around with. Also variations of City of Ages: Safari (our code) updating all the time for free. Text gaming is THAT BIG--RIGHT NOW men and ladies are chatting all over these hidden servers. Telnet servers are the hidden dark web of fun with spiders with all kinds of mobs with powerful spells!
+  Now you can run our client to connect to the free City of Ages server, or use this client to go try other telnet text servers out there--this gives you more than one server to toy around with. Also variations of City of Ages: Safari (our code) updating all the time for free. Text gaming is THAT BIG--RIGHT NOW men and ladies are chatting all over these hidden servers. Telnet servers are the hidden dark web of fun with spiders with all kinds of mobs with powerful spells! Many have dated in these games and put a ring in real life right on that special finger; these are CHAT servers you could easily meet the right person and make friends, the communities are great, maybe meet your wildest dream in a text MUD its possible! We just need to make text gaming easy to access again, here it is!!
 
-If you are looking for that game with the opposite sex playing a lot in it--its not PvP games that's for sure, its right here! Many have dated in these games and put a ring in real life right on that special finger; these are CHAT servers you could easily meet the right person and make friends, the communities are great, maybe meet your wildest dream in a text MUD its possible!
-
-This is not a single player 3D Game this is the first working and designed TEXT Ascii RPG with EVERYTHING the others have, so why does it have to be 3D, it doesn't. Human beings, when we imagine it, it comes to life, many say they do not have an imagination, I bet you were thinking about breakfast when you woke up. Just get into text mudding and chatting, why not, its so fun, surf the world of mudding! Surf for free using our telnet free client, connect to any telnet MUD!
+This is not an epic 3D Game, in fact it is 2.50 Dimensional. This is the first working and designed TEXT Ascii RPG with EVERYTHING the others have, so why does it have to be 3D, it doesn't. Human beings, when we imagine it, it comes to life, many say they do not have an imagination, I bet you were thinking about breakfast when you woke up. Just get into text mudding and chatting, why not, its so fun, surf the world of mudding! Surf for free using our telnet free client, connect to any telnet MUD!
 
 I challenge all true gamers and true RPGers to make a group of three characters with my client (use TOOLS to create an instance) that follow each other around, your game here isn't limited to just you playing, you can use the FOLLOW and GROUP up to three characters together.
 
 Great for all platforms and emulators, NO GRAPHICS CARD REQUIRED, bitmap graphics that you can change! The LAUGHS are ENDLESS with text RPGs. Put pictures of your whole family, pets, and friends (especially those enemies) into this game, have them show up when you meet the monster you made! This game is a DIFFERENT FUN !!!
 
-Great for people learning the English language, by having fun, use a screen scanning translator or have your parent nearby; and for educators of the English language in a fun way to learn, so they learn the game at the same time!
+Great for people learning the English language, by having fun, use a screen scanning translator or have your parent nearby; and for educators of the English language, this is your new fun way to learn, so they learn the game at the same time finding stuff! They want that stuff, they will learn the language. I advise: Do not show them 3D games first. My sence of humour is also in this MUD.
 
 Great for people that like programmatical games and easy to follow code:
 
--      We have EASY to follow code, use vb6 or try free twinBASIC found at 'twinBASIC GitHub repository' to compile.
+-      We have EASY to follow code, use vb6 or try free twinBASIC found at 'twinBASIC GitHub repository' to compile.
 
--      We have event triggers on text matching from the screen.
+-      We have event triggers on text matching from the screen.
 
--      We have building commands for Administrators/Lords of the game.
+-      We have building commands for Administrators/Lords of the game.
+
+
 
 There is so much more keep reading !!!
 
 
-City of Ages Code: Safari [56000+ Epic downloads at steampowered as of 2017-2025+]
-
-[framework Visual Basic + 80% SQL Transactions + Win 11 vbDLLs approved by Microsoft]
 
 =======================================================================
 
 Edger Allen Poe was paid a pizzly sum by todays monies with full rights purchased away from him for less than two hundred dollars. The Raven by Edgar Allen Poe was declared a masterpiece in ITS OWN RIGHTS.
 
+
+
 This is my Masterpiece and I hope people play TextCraft with the code more often. Welcome to a different form of gaming, a poetic one. Enjoy a true floating port technology server with a built in game server that is HARDENED from port noise, its SQL-Server (console command driven) and its own mitigation server (anti DDOS attacks) and all yours for FREE. If you are trying to learn English, this is a great game, you just need to find your screen reader that can translate different languages. Most screen readers are for the visually impaired and are available on the internet, search for mud screen readers.
+
+
 
 This is the most advanced 2.5 Dimensioned RPG ever developed and will continue development, and it saves on your graphics card because it doesn't need one. You can play other games while playing this game, and we all like to do that as we wait for graphical games to launch our 3D virtual playgrounds. City of Ages' game design is similar to top graphical games of the same concept, some laptops do not have a graphical card, here is a text variation to toy with. This game also has Artificial Intelligence built right into the server code. City of Ages' game will slowly offer you mini games while you play, Egg you on for fights the next time you log in and many more AI-like features!
 
+
+
 Our finished client allows you to make macros, edit buttons, you have timers that repeat any command including your Attack target commands [no grind no beating on your keyboard required], or use timers to practice your spells FOR YOU, does the word IDLE game mean anything to you all? Yes it DOES! Many like games they can play all at one time, your PC game is running, your mobile game is running, idle games are fun for this reason!
 
-Its a really great different type of game we have bitmap graphics you can tweak, its TextCraft really. This type of game is a great addition to a collector's game list!
+Its a really great different type of game we have bitmap graphics you can tweak, its TextCraft really. This type of game is a great addition to a collector's game list!
 
-Play it, I MADE IT!
+Play it, I MADE IT! 
+
+
 
 Pranks: (designed to promote the game in a more immersive way)
 
@@ -58,6 +76,8 @@ Realm Ghost (he will scare you but the ectoplasm left behind has its own worth)
 Pouncing (some mobs in the realm, mostly Dragons will come out of nowhere and pounce on you, you win a learn point by this to offset its stun)
 
 Different Classes can kill more in a short period of time or you get deeply tired, not just movement tired, its deep boned tiredness. (prevents heavy botting as well)
+
+
 
 Escapes to prevent damage to the player:
 
@@ -77,13 +97,17 @@ Half damage spells
 
 Amour can absorb twenty five percent more damage
 
+
+
+
+
 Immersive Points - Main Activities:
 
-System Auto clans players and does many more automated action-items for you!
+ System Auto clans players and does many more automated action-items for you!
 
-Mimics are a heavy part of our system; during an eclipse drop an object [from a pentagram] with a mimic identified on it and then exorcise them!
+Mimics are a heavy part of our system; during an eclipse drop an object [from a pentagram] with a mimic identified on it and then exorcise them! 
 
-Our game is incredibly intricate this way. MAP command if you care to see
+Our game is incredibly intricate this way. MAP command if you care to see 
 
 where you are going, now with a realm weather report
 
@@ -91,7 +115,7 @@ Heavy and Advanced EMOTE system which brings in all your pet emote
 
 commands into one easy to use command
 
-New Years, Halloween, Azzie Day and other event days have
+New Years, Halloween, Azzie Day and other event days have 
 
 celebrated emote especially at City of Ages Centre
 
@@ -119,27 +143,31 @@ all player classes can steal at different costs
 
 We have slaying weapons and now more to slay with:
 
-Missile weapons and Arcane kinetic bolts can slay anything in the realm,
+Missile weapons and Arcane kinetic bolts can slay anything in the realm, 
 
 with Guard quests and Object hunts we took some grind out of RPG this way.
 
-Crafting: (great news, no leveling required, full access to the forge and crafting system)
+
+
+Crafting: (great news, no leveling required, full access to the forge and crafting system) 
 
 Spell Crafts which you learn from TEACHERS of the realm to convert one item into a more useful one for crafting
 
-Craft Transmute tables, put a few items into the transmutation and poof a cool new item
+Craft Transmute tables, put a few items into the transmutation and poof a cool new item 
 
 FORGE command with easy to earn crowns of glory, items rare on their own as well
 
+
+
 Fast Tracking:
 
-Way-stones to travel you far and fast lie everywhere
+Way-stones to travel you far and fast lie everywhere  
 
 MARK n RECALL as standard issue commands
 
 Stargates back n forth to a true Solar system x1 y1 z1 to destination x2 y2 z2
 
-City of Ages has four parapets with Way-stones
+City of Ages has four parapets with Way-stones 
 
 Magic Words ie. say musho poiet
 
@@ -147,20 +175,24 @@ AREA command
 
 LOCATION command
 
+
+
 Door Games:
 
-Armageddon
+Armageddon 
 
 SHOWTIME
 
 Guess Word
 
-Surprises from Sanded Beckon Birdy Portraits
+Surprises from Sanded Beckon Birdy Portraits 
 
 Arcade game Packmon
 
-Morphs: [some morphs have their own reserved emotes ie. FANG for Vampyre]
-WITCHLOCKE [is a new triggered morph when lazy or playing a thief too hard]
+
+
+Morphs: [some morphs have their own reserved emotes ie. FANG for Vampyre] 
+ WITCHLOCKE [is a new triggered morph when lazy or playing a thief too hard]
 
 Vampyre
 
@@ -172,18 +204,22 @@ Cyborg
 
 ...also many poof animal transformations
 
+
+
 Puzzles:
 
-Levers, Passwall spells, you can do almost anything to short-circuit your Adventures and still win
-Merge cards
-Ankh ring, one ring does rule them all
+ Levers, Passwall spells, you can do almost anything to short-circuit your Adventures and still win 
+Merge cards 
+Ankh ring, one ring does rule them all 
 
 Quest Engines:
 (besides the standard give quest item to npc we have)
 
 Capture the Clan Flags (when held you are open to PvP)
 
-Oracle personal assigned level appropriate quest
+
+
+Oracle personal assigned level appropriate quest 
 
 Chase the object
 
@@ -199,9 +235,11 @@ the GURU
 
 random GUARDING quest
 
+
+
 Artificial Intelligence Boosted:
 
-Auto-Clan system, no need for an immortal to run the mud anymore, GO AI !!!
+ Auto-Clan system, no need for an immortal to run the mud anymore, GO AI !!!
 
 Thief code
 
@@ -211,98 +249,122 @@ RAID mobs
 
 Hunting Mode
 
+
+
 Gambling:
 Very well done Stock Market on the Red Planet
 
 True Roulette wheel
-Horse racing simulation
-Marble City miniCasino
-portable Dice and Deck of Cards
+Horse racing simulation 
+Marble City miniCasino 
+portable Dice and Deck of Cards 
+ 
 
 Pets:
 
-Emote to or pEmote control your pet or Evolve and level your pets.
+Emote to or pEmote control your pet or Evolve and level your pets. 
 
 can Disarm traps now
 
 Dragon Breath on enemies now
 
+
+
 Emotes:
 
 For Role-play we have advanced EMOTES for you and your mountable pets.
+
+
 
 Gameplay:
 
 You begin your adventure with medieval weapons including cross/bows/slings and bolts/arrows/and rocks, and move slowly into modern weaponry. There are machineguns/hand phasers and ammo. Starships are fully loaded with weapons/shields and mines, use them as a house or beam down to just about any location in the realm. Stock-market, Golfing [its hilarious to golf grenades around the realm], Stargates, Starships, tons of different types of Quest engines, like our infamous ARMEGADDON system quest. As well as normal types of quests, and many built-in Door games. Door games include, a Mini-Casino, a real to life Roulette game, a fun Horse Racing game, one playable Arcade game, GUESS WORD, Dice, and a Deck of Cards. For Role-play we have advanced EMOTES for you and your mountable pets. The creatures of the realm go on city Raids, and will eventually mark you as a bounty over time and then they will try to catch you off guard. Then heck, cause more trouble, go capture all the clan flags for better gains, steal flags from each other!
 
-Great for those new to Mudding and especially those that played Internet MUDS, and BBS Door games. We have an exact unique identifier system, as well as a perception machine to intice you to read areas with pictures matching by words. This MUD also allows you to link/import your own pictures and sounds, which is not included, for you to find and optionally create. There are loads of free pictures and free sounds found on the web. One of the windows will not work if Graphical User Interface exact mode status is set to [GM off].
+
+
+Great for those new to Mudding and especially those that played Internet MUDS, and BBS Door games. We have an exact unique identifier system, as well as a perception machine to intice you to read areas with pictures matching by words. This MUD also allows you to link/import your own pictures and sounds, which is not included, for you to find and optionally create. There are loads of free pictures and free sounds found on the web. One of the windows will not work if Graphical User Interface exact mode status is set to [GM off]. 
+
+
 
 Note about Scaremode: SM [ON/OFF/STATUS]: Toggles your scaremode for those that want to chill more, the idea was to keep you moving around the map, invisibility and sneak prevented special-nearby mobiles from falling into hunting mode (and still does), it was the main reason for SNEAK command being movement oriented as opposed to duration timeout based. This is now optional.
 
+
+
 The MUD is fully finished and fully programmed to automatically run your quests for you.
+
+
 
 Happy Hunting!
 
+
+
 Technical Details
 
-Graphical User Interface Design:
-Here are special commands a future graphical client someone could make, would require:
-FM ON OFF STATUS (Filter-mode reduces unnecessary text that screen readers cannot decode to read) [see also: config combat -/+]
+Graphical User Interface Design: 
+Here are special commands a future graphical client someone could make, would require:   
+ FM ON OFF STATUS (Filter-mode reduces unnecessary text that screen readers cannot decode to read) [see also: config combat -/+]  
 
-GM ON OFF STATUS (graphics detailed mode using system GUIDs)
+ GM ON OFF STATUS (graphics detailed mode using system GUIDs) 
 
-SM ON OFF STATUS (scaremode if special-nearby mobiles will randomly aggressive you)
+ SM ON OFF STATUS (scaremode if special-nearby mobiles will randomly aggressive you) 
 
-DD shows the day description, night is shown too if not the same, with zoom mode
+  DD shows the day description, night is shown too if not the same, with zoom mode 
 
-MAP
+  MAP 
 
-XXX
+  XXX 
 
-BATTLESTATUS tracks all mobiles attacking you or after you - such as raid mobs
+  BATTLESTATUS tracks all mobiles attacking you or after you - such as raid mobs 
 
-AC/HR/DR/NAR/SLAY
+  AC/HR/DR/NAR/SLAY 
 
-FACTION DATA
+  FACTION DATA 
 
-ATMOZ
+  ATMOZ 
 
-PETS
+  PETS 
 
-OBJECTS
+  OBJECTS 
 
-MOBS
+  MOBS 
 
-PLYR rx ry rz facing-graphics-id this is controlled by your client, run alone for the complete necessary room report on players
+  PLYR rx ry rz facing-graphics-id this is controlled by your client, run alone for the complete necessary room report on players 
 
-SCAN
+  SCAN 
 
-LOCATION
+  LOCATION 
 
-AREA
+  AREA 
+
+ 
+
+* New commands to try: 
+
+When SLEEPing try to DREAM and get a guard quest 
+
+  Do not nightmare, you may experience the learning points of the Black Plague! 
+
+  What was that about learning a point to train with? 
+
+  Its a quest too, just an annoying one. Even bad stuff in the realm leads you to water. 
+
+- SCRY (creates a tornado item and a few pentagram items) 
+
+- CHAIN and BOLT attack commands 
+
+Tip: Make a druid orc or mage orc to try all three! 
 
 
-* New commands to try:
 
-When SLEEPing try to DREAM and get a guard quest
 
-Do not nightmare, you may experience the learning points of the Black Plague!
 
-What was that about learning a point to train with?
+Special Command(s 
 
-Its a quest too, just an annoying one. Even bad stuff in the realm leads you to water.
+Lon Loff to line feed up a line 
 
-- SCRY (creates a tornado item and a few pentagram items)
 
-- CHAIN and BOLT attack commands
 
-Tip: Make a druid orc or mage orc to try all three!
-
-Special Command(s
-
-Lon Loff to line feed up a line
-
-Server and Client use a true X,Y,Z coordinate system giving real depth to the stage view 2.5 Dimensional viewable Mudding environment.
+Server and Client use a true X,Y,Z coordinate system giving real depth to the stage view 2.5 Dimensional viewable Mudding environment. 
 
 Windows 11 and Windows 2019 Server, both easily installed Access 97 sr1 and Visual Basic 6 sr6.
 
@@ -310,47 +372,46 @@ With the City of Ages Client which also comes with this product: You can change 
 
 Now you can remote in on your friends City of Ages Server or place your server such as the server farm: ovhcloud
 
-Blowtorch or bMudclient for Android, their free code is out too
+Blowtorch or bMudclient for Android, their free code is out too 
 
-I included blowtorch compatible mage.xml druid.xml blowtorch works fine if you export your changes to your profile triggers buttons
+I included blowtorch compatible mage.xml druid.xml blowtorch works fine if you export your changes to your profile triggers buttons 
 
-Mudrammer or Mudmaster for iOS
+
+
+Mudrammer or Mudmaster  for iOS
 
 Never tried this telnet client to make any defaults
 
+
+
 Join 100s of MUD players at redditz group: /r/MUD
 
-DefCON detects for lag coming from hardware troubles and is an auto reboot system, so test your servers prowess by boot running from your StartUp folder.
+
+
+DefCON detects for lag coming from hardware troubles and is an auto reboot system, so test your servers prowess by boot running from your StartUp folder. 
+
+
 
 Thanks to free AI Imaging Art we will be providing all the new art for our entire game for FREE, because its free to me your Immortal of this game.
 
+
+
 Filter toggle mode: Visually impaired may use screen readers, and permanent CONFIG for Area and Combat on or simplified modes.
+
+
 
 You are being Matched/or NOT from the server: The coaServer allows use to each person with three character connections using coa client>Tools>Run another Instance of the coaClient, however you can then be shown to everyone else online who your new characters are. This is to reveal to everyone whom is who, prevents salty people from having too much fun.
 
 Supportive Languages: Microsoft Visual Basic 6, and twinBASIC
 
+
 twinBASIC is a modern implementation of the classic Visual BASIC (VB Access) programming language, designed to provide 100% backward compatibility with existing VB6 and VBA projects. It aims to serve as a complete replacement for the VB6 IDE and compiler while introducing numerous enhancements and new features. This project is actively under development and offers a preview version for users to explore and contribute feedback. It is particularly useful for developers looking to modernize their VB6 or VBA projects without losing compatibility.
 
-Huge thank you to Rochester, Washington state for 23 years of beta testing. SteveH RichieV NateD
 
-System Requirements
-Minimum:
-OS: XP/7/8/10/11
-Processor: any
-Memory: 100 MB RAM
-Graphics: any
-Storage: 99 MB available space
-Sound Card: any
-Additional Notes: Fully finished game! Server requires minimal resources and can Sleep itself when inactive. Any device that supports Telnet can connect to the Telnet Server. Telnet Server and Client provided works on any Windows OS.
-Recommended:
-OS: XP/7/8/10/11
-Processor: any
-Memory: 100 MB RAM
-Graphics: any
-Storage: 99 MB available space
-Sound Card: any
-Additional Notes: Fully finished game! Server requires minimal resources and can Sleep itself when inactive. Any device that supports Telnet can connect to the Telnet Server. Telnet Server and Client provided works on any Windows OS.
+
+
+
+
 ** EULA: You may do anything with the code except sell it or make money from the code until 2037, after I turn 65 do anything you want even make money with the code. Place a nice stage view graphical interface on your version of a mobile client, I did the PC client well enough.
 
 
@@ -358,3 +419,4 @@ Darren Nesbitt Lory
 City of Ages: Safari MUD Founder
 questions? yes, I get a lot, do not be shy.
 Formsmatter@gmail.com
+
