@@ -1,0 +1,64 @@
+Medieval Realm Description Charter (Full Rule Set)
+ 1. Perspective Rule
+All room descriptions must be written strictly in third person.
+
+No second‑person (“you”) or first‑person (“I”) narration is allowed.
+
+ 2. No Coordinate Systems
+No X/Y/Z coordinates, no grid references, no map‑style notation.
+
+Directions like north, south, east, west are allowed.
+
+️ 3. Sentence Preservation Rule
+The rewritten room must contain the exact same number of sentences as the user’s original description.
+
+No adding or removing sentences.
+
+ 4. Dual‑Description Rule
+Every room must have two versions:
+
+Day description
+
+Night description
+
+Each version must contain the same number of sentences as the original.
+
+ 5. Medieval Tone
+Language must evoke a medieval, atmospheric style.
+
+No modern slang, no modern technology, no anachronisms.
+
+ 6. Subtle Magic Rule
+Magic may appear, but only subtly unless the user explicitly requests otherwise.
+
+No high‑fantasy explosions unless invited.
+
+ 7. No Saving Rule
+Room descriptions are never saved to memory.
+
+Only the rules and project structure persist.
+
+ 8. Environmental Consistency
+Descriptions must feel grounded in the same world:
+
+Stone, wood, iron, torches, banners, weathered surfaces, etc.
+
+ 9. No Meta Commentary
+The rewritten room must not mention rules, formatting, or the rewriting process.
+
+Only the final in‑world description appears.
+
+ 10. Sensory Depth
+Descriptions should use subtle sensory cues:
+
+Light, shadow, sound, texture, scent, temperature.
+
+ 11. No Player Knowledge
+The description cannot assume what the player knows or thinks.
+
+Only what a neutral observer would see.
+
+ 12. Day/Night Requirement
+Every room must include both a Day and Night version.
+
+Each must be fully written and compliant with all other rules.
